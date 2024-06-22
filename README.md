@@ -1,4 +1,4 @@
-# Pranav's Portfolio (Will edit)
+<!-- # Pranav's Portfolio (Will edit)
 
 ## About Me
 I am a Product Engineer based in Patna, Bihar, India. Currently, I work at TrustAuthX and specialize in Full-Stack Development. I have a background as a product guy at FlitchCoin and was part of the founding team at TrustAuthX, where we built India's largest Student-led AI-SAAS for authentication & access control APIs.
@@ -43,4 +43,4 @@ Feel free to connect with me for any professional discussions or collaborations.
 
 ---
 
-*Note: This is a basic template. You can add more sections, details, and styling as per your preferences and requirements.*
+*Note: This is a basic template. You can add more sections, details, and styling as per your preferences and requirements.* -->
